@@ -1,0 +1,10 @@
+ Volume in drive F is MISC
+ Volume Serial Number is 9A4D-0620
+
+ Directory of F:\Naven\Automation\Git\MyProject
+
+16-Aug-17  03:10 PM    <DIR>          .
+16-Aug-17  03:10 PM    <DIR>          ..
+16-Aug-17  03:10 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  473,603,129,344 bytes free
